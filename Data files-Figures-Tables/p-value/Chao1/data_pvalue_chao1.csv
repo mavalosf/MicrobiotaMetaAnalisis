@@ -1,0 +1,11 @@
+﻿author;Disease;Continent;Sample;Sequencing;Rarefaction;Taxonomy;Control_size;Case_size;Size_healthy;Mean_healthy;SD_healthy;Size_stable;Mean_stable;SD_stable;Size_diseased;Mean_diseased;SD_diseased;Size_exacerbated;Mean_exacerbated;SD_exacerbated
+Par14;Asthma;Asia;UA;454 pyrosequencing;YES;Genus;12;18;12;273.5;147.4;18;173.2;100.7;;;;;;
+Den16;Asthma;America;BAL;Illumina;YES;Genus;19;39;19;158.05;31.49;;;;39;142.77;36.01;;;
+Li17;Asthma;Asia;Sputum (induced);454 pyrosequencing;NO/NC;OTU;15;49;15;180.98;36.56;24;242.96;148.92;;;;25;229.32;161.65
+Gol13;Asthma;America;BAL;454 pyrosequencing;YES;Genus;12;39;12;20.6;6.8;39;26.3;8.1;;;;;;
+Lee18;Asthma;Asia;UA;454 pyrosequencing/Illumina;NO/NC;OTU;20;59;20;284.395;208.2054;59;350.7949;383.1781;;;;;;
+Hua20;Asthma;Asia;Sputum (induced);Illumina;YES;OTU;16;22;16;571.43;464.29;;;;22;270.54;50;;;
+Par14;COPD;Asia;UA;454 pyrosequencing;YES;Genus;12;17;12;273.5;147.4;17;202.6;126.6;;;;;;
+Mil15;COPD;Europe;Sputum;454 pyrosequencing;NO/NC;OTU;8;8;;;;8;138.39;53.93;;;;8;125.93;31.08
+Nar17;Cystic fibrosis;America;Sputum;Illumina;NO/NC;Genus;8;16;8;133.51;10.89;;;;16;103.32;17.70;;;
+Sor20;Cystic fibrosis;Europe;Sputum;454 pyrosequencing;YES;OTU;16;17;16;30.28;14.67;;;;;;;17;25.62;9.31

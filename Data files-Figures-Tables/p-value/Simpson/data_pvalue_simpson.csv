@@ -1,0 +1,9 @@
+﻿author;Disease;Continent;Sample;Sequencing;Rarefaction;Taxonomy;Control_size;Case_size;Size_healthy;Mean_healthy;SD_healthy;Size_exacerbated;Mean_exacerbated;SD_exacerbated;Size_diseased;Mean_diseased;SD_diseased;Size_stable;Mean_stable;SD_stable
+Den16;Asthma;America;BAL;Illumina;YES;Genus;19;39;19;0.92;0.02;;;;39;0.91;0.02;;;
+Li17;Asthma;Asia;Sputum (induced);454 pyrosequencing;NO/NC;OTU;15;49;15;0.15;0.12;25;0.12;0.03;;;;24;0.13;0.08
+Hua20;Asthma;Asia;Sputum (induced);Illumina;YES;OTU;16;22;16;0.11;0.06;;;;22;0.13;0.06;;;
+Kim17;COPD;Asia;LA;454 pyrosequencing;YES;OTU;13;13;13;0.27;0.20;;;;13;0.36;0.23;;;
+Pra12;COPD;America;BAL;454 pyrosequencing;YES;OTU;10;22;10;0.27;0.24;;;;;;;22;0.61;0.28
+Fil12;Cystic fibrosis;America;Sputum;454 pyrosequencing;NO/NC;Genus;22;13;;;;13;0.40;0.48;;;;22;0.64;0.15
+Sor20;Cystic fibrosis;Europe;Sputum;454 pyrosequencing;YES;OTU;16;17;16;0.30;0.16;17;0.70;2.21;;;;;;
+Byu17;Bronchiectasis;Asia;BAL;Other;NO/NC;Genus;8;6;;;;6;1.77;1.30;;;;8;3.60;6.57

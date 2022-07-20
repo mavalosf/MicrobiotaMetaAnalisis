@@ -1,0 +1,9 @@
+author;Disease;Sample;Size_healthy;Mean_healthy;SD_healthy;Size_exacerbated;Mean_exacerbated;SD_exacerbated;Size_diseased;Mean_diseased;SD_diseased;Size_stable;Mean_stable;SD_stable
+Den16;Asthma;BAL;19;0.92;0.02;;;;39;0.91;0.02;;;
+Li17;Asthma;Sputum (induced);15;0.15;0.12;25;0.12;0.03;;;;24;0.13;0.08
+Hua20;Asthma;Sputum (induced);16;0.11;0.06;;;;22;0.13;0.06;;;
+Kim17;COPD;LA;13;0.27;0.20;;;;13;0.36;0.23;;;
+Pra12;COPD;BAL;10;0.27;0.24;;;;;;;22;0.61;0.28
+Fil12;Cystic fibrosis;Sputum;;;;13;0.40;0.48;;;;22;0.64;0.15
+Sor20;Cystic fibrosis;Sputum;16;0.30;0.16;17;0.70;2.21;;;;;;
+Byu17;Bronchiectasis;BAL;;;;6;1.77;1.30;;;;8;3.60;6.57

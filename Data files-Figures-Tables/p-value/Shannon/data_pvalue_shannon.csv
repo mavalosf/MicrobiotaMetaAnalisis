@@ -1,0 +1,25 @@
+author;Disease;Continent;Sample;Sequencing;Rarefaction;Taxonomy;ASV;Sum_expert;Control_size;Case_size;Size_healthy;Mean_healthy;SD_healthy;Size_stable;Mean_stable;SD_stable;Size_exacerbated;Mean_exacerbated;SD_exacerbated;Size_diseased;Mean_diseased;SD_diseased
+Par14;Asthma;Asia;UA;454 pyrosequencing;YES;Genus;NO ASV;5;12;18;12;3.5;0.7;18;2.4;1;;;;;;
+Den16;Asthma;America;BAL;Illumina;YES;Genus;NO ASV;6;19;39;19;3.54;0.26;;;;;;;39;3.46;0.18
+Li17;Asthma;Asia;Sputum (induced);454 pyrosequencing;NO/NC;OTU;NO ASV;6;15;49;15;2.88;0.53;24;2.81;0.40;25;2.82;0.50;;;
+Gol13;Asthma;America;BAL;454 pyrosequencing;YES;Genus;NO ASV;6;12;39;12;2.77;0.66;39;2.78;0.54;;;;;;
+Liu20;Asthma;Asia;Sputum;Other;YES;OTU;NO ASV;6;29;116;29;5.55;0.72;116;5.96;1.09;;;;;;
+Mun16;Asthma;Europe;Sputum (induced);454 pyrosequencing;YES;OTU;NO ASV;6;20;44;20;2.65;0.33;;;;;;;44;3.16;0.29
+Sve17;Asthma;Europe;BAL;Illumina;NO/NC;OTU;NO ASV;5;10;23;10;3.81;0.25;;;;;;;23;4.05;0.21
+Mar13;Asthma;America;Sputum (induced);454 pyrosequencing;YES;OTU;NO ASV;4;10;10;10;2.46;0.33;10;2.78;0.28;;;;;;
+Lee18;Asthma;Asia;UA;454 pyrosequencing/Illumina;NO/NC;OTU;NO ASV;6;20;59;20;1.72;0.55;59;2.09;1.24;;;;;;
+Hua20;Asthma;Asia;Sputum (induced);Illumina;YES;OTU;NO ASV;6;16;22;16;3.26;0.55;;;;;;;22;2.9;0.4
+Par14;COPD;Asia;UA;454 pyrosequencing;YES;Genus;NO ASV;5;12;17;12;3.5;0.7;17;2.9;1;;;;;;
+Ein16;COPD;Europe;LA;Illumina;NO/NC;OTU;NO ASV;6;19;18;19;2.59;0.46;18;1.90;0.63;;;;;;
+Pra12;COPD;America;BAL;454 pyrosequencing;YES;OTU;NO ASV;5;10;22;10;0.54;0.44;22;1.56;0.85;;;;;;
+Mil15;COPD;Europe;Sputum;454 pyrosequencing;NO/NC;OTU;NO ASV;4;8;8;;;;8;2.93;0.98;8;3.26;1.07;;;
+Fei17;COPD;Europe;Sputum;Illumina;NO/NC;Genus;ASV;5;7;4;7;3.07;0.10;;;;;;;4;1.5;0.8
+Erb11;COPD;America;BAL;454 pyrosequencing;NO/NC;OTU;NO ASV;5;10;4;10;3.56;1.05;4;3.10;1.60;;;;;;
+Kim17;COPD;Asia;LA;454 pyrosequencing;YES;OTU;NO ASV;6;13;13;13;2.07;0.63;;;;;;;13;1.8;0.8
+Wan20;COPD;Asia;Sputum (induced);PacBio/Illumina;YES;OTU;ASV;6;27;98;27;6.18;1.38;98;5.51;2.27;;;;;;
+Ple19;Cystic fibrosis;America;LA;Illumina;YES;OTU;NO ASV;5;17;9;17;4.24;0.88;;;;;;;9;2.15;1.08
+Nar17;Cystic fibrosis;America;Sputum;Illumina;NO/NC;Genus;NO ASV;5;8;16;8;2.62;0.10;;;;;;;16;1.68;0.77
+Cob15;Cystic fibrosis;America;Sputum;Illumina;YES;OTU;NO ASV;6;100;27;;;;100;4.07;1.18;27;3.40;1.62;;;
+Car13;Cystic fibrosis;America;Sputum;454 pyrosequencing;YES;OTU;NO ASV;6;34;34;;;;34;1.31;0.64;34;1.41;0.60;;;
+Sor20;Cystic fibrosis;Europe;Sputum;454 pyrosequencing;YES;OTU;NO ASV;5;16;17;16;0.80;0.59;;;;17;1.41;3.42;;;
+Byu17;Bronchiectasis;Asia;BAL;Other;NO/NC;Genus;NO ASV;3;8;6;;;;8;4.59;12.86;6;0.53;0.46;;;
